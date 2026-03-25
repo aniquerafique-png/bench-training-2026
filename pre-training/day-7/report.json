@@ -1,0 +1,94 @@
+{
+    "top_words": [
+        [
+            "ai",
+            8
+        ],
+        [
+            "new",
+            7
+        ],
+        [
+            "says",
+            6
+        ],
+        [
+            "into",
+            5
+        ],
+        [
+            "foreign-made",
+            4
+        ],
+        [
+            "routers",
+            4
+        ],
+        [
+            "apple",
+            4
+        ],
+        [
+            "tech",
+            4
+        ],
+        [
+            "just",
+            3
+        ],
+        [
+            "bans",
+            3
+        ],
+        [
+            "now",
+            3
+        ],
+        [
+            "fcc",
+            3
+        ],
+        [
+            "about",
+            3
+        ],
+        [
+            "out",
+            3
+        ],
+        [
+            "online",
+            2
+        ],
+        [
+            "pay",
+            2
+        ],
+        [
+            "billion",
+            2
+        ],
+        [
+            "wind",
+            2
+        ],
+        [
+            "internet",
+            2
+        ],
+        [
+            "intuit",
+            2
+        ]
+    ],
+    "upvotes_stats": {
+        "most_upvoted_title": "A High School Student Just Built a Water Filter That Removes 96% of Microplastics, Without Expensive Equipment",
+        "most_upvotes": 23887,
+        "average_upvotes": 1679.92
+    },
+    "posts_by_date": {
+        "today": 22,
+        "older": 28
+    },
+    "generated_at": "2026-03-24T14:26:33.761054+00:00"
+}
